@@ -17,6 +17,7 @@ The docker network created by `docker-compose` maps pretty well to a multi-tier 
 
 ![](exercises/assets/arch.png)
 
+
 ## Exercises
 
 * [SQL Injection](exercises/01-sql-injection.md)
